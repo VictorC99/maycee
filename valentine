@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>For My Maycee ❤️</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to right, #ffdde1, #ee9ca7);
+            text-align: center;
+            color: #fff;
+            padding: 40px;
+        }
+        h1 {
+            font-size: 3em;
+        }
+        .section {
+            margin: 60px 0;
+        }
+        img {
+            width: 250px;
+            border-radius: 15px;
+            margin: 10px;
+        }
+        .letter {
+            max-width: 600px;
+            margin: auto;
+            font-size: 1.2em;
+            line-height: 1.6em;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Happy Valentine’s Day, My Beautiful Maycee ❤️</h1>
+    <p>Almost a year with you, and I’d choose you all over again.</p>
+
+    <div class="section">
+        <h2>Why I Love You 💖</h2>
+        <p>You are beautiful in ways I can’t even explain.</p>
+        <p>I love how caring you are and how safe you make me feel.</p>
+        <p>I love how loving you are and how special you make me feel.</p>
+    </div>
+
+    <div class="section">
+        <h2>Our Memories 📸</h2>
+        <img src="photo1.jpg" alt="Memory 1">
+        <img src="photo2.jpg" alt="Memory 2">
+        <img src="photo3.jpg" alt="Memory 3">
+    </div>
+
+    <div class="section letter">
+        <h2>To My Love 💌</h2>
+        <p>
+        Maycee,<br><br>
+        Almost a year with you has been one of the best parts of my life.
+        You’re beautiful, caring, and loving in ways that make everything better.
+        Thank you for being you.
+        <br><br>
+        Happy Valentine’s Day ❤️
+        </p>
+    </div>
+
+</body>
+</html>
